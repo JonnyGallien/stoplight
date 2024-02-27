@@ -33,11 +33,17 @@
   opacity: 0.2;
 }
 
-.red {background-color: red;}
+.red {
+  background-color: red;
+}
 
-.yellow {background-color: yellow;}
+.yellow {
+  background-color: yellow;
+}
 
-.green {background-color: green;}
+.green {
+  background-color: green;
+}
 
 .active {
   opacity: 1;
